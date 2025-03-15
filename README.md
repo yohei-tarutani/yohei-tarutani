@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Yohei Tarutani!</h1>
 
-<h2>A passionate Front-end Developer </h2>
+<h2>A highly motivated Front-end Developer </h2>
 I'm Yohei living in Vancouver Canada, and I mostly do Front-end on web and mobile Development.
 I really enjoy learning languages and frameworks such as Javascript, Typescript, React and React Native.
 
