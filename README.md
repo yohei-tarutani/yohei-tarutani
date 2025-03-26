@@ -1,8 +1,8 @@
 <h1>Hi 👋, I'm Yohei Tarutani!</h1>
 
 <h2>A highly motivated Front-end Developer </h2>
-I'm Yohei living in Vancouver Canada, and I mostly do Front-end on web and mobile Development.
-I really enjoy learning languages and frameworks such as Javascript, Typescript, React and React Native.
+I'm Yohei living in Vancouver Canada, and I mostly do Front-end on web and mobile development.
+I really enjoy learning programming languages and frameworks such as Javascript/Typescript, React, Next.js and React Native.
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
